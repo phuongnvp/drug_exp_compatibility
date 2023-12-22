@@ -1,0 +1,17 @@
+numpy == 1.24.3
+pickle-mixin
+streamlit == 1.29.0
+streamlit-option-menu == 0.3.6
+scikit-learn == 1.2.2
+pubchempy == 1.0.4
+rdkit
+pandas == 2.0.3
+matplotlib == 3.7.2
+seaborn == 0.12.2
+gensim == 4.3.0
+Pillow == 9.4.0
+tqdm == 4.65.0
+IPython == 8.15.0
+joblib == 1.2.0
+git+https://github.com/phuongnvp/mol2vec
+xgboost == 2.0.1
