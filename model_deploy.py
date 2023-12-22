@@ -147,7 +147,7 @@ if st.button('Result'):
 st.markdown(
     """
     <div style="position: fixed; bottom: 8px; width: 100%; text-align: left; padding-left: 5cm;">
-        For the updated version of this website, please visit <a href="https://decompatibility-v2.streamlit.app">here</a>
+        For the updated version of this website, please visit <a href="https://decompatibility-v12.streamlit.app">here</a>
     </div>
     """,
     unsafe_allow_html=True
