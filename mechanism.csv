@@ -1,0 +1,89 @@
+﻿Interaction,Drug,Excipient
+Oxidation Reaction,phenolic hydroxyl,oxidizing agent
+Oxidation Reaction,primary amine,oxidizing agent
+Oxidation Reaction,secondary amine,oxidizing agent
+Oxidation Reaction,tertiary amine,oxidizing agent
+Oxidation Reaction,sulfide,oxidizing agent
+Oxidation Reaction,double bond,oxidizing agent
+Oxidation Reaction,aldehyde,oxidizing agent
+Hydrolysis Reaction,carbonamide,carboxylic acid
+Hydrolysis Reaction,sulfonamide,carboxylic acid
+Hydrolysis Reaction,phosphoramide,carboxylic acid
+Hydrolysis Reaction,ester,carboxylic acid
+Hydrolysis Reaction,sulfonate ester,carboxylic acid
+Hydrolysis Reaction,carbonamide,sulfonic acid
+Hydrolysis Reaction,sulfonamide,sulfonic acid
+Hydrolysis Reaction,phosphoramide,sulfonic acid
+Hydrolysis Reaction,ester,sulfonic acid
+Hydrolysis Reaction,sulfonate ester,sulfonic acid
+Hydrolysis Reaction,carbonamide,acidic group
+Hydrolysis Reaction,sulfonamide,acidic group
+Hydrolysis Reaction,phosphoramide,acidic group
+Hydrolysis Reaction,ester,acidic group
+Hydrolysis Reaction,sulfonate ester,acidic group
+Hydrolysis Reaction,carbonamide,basic group
+Hydrolysis Reaction,sulfonamide,basic group
+Hydrolysis Reaction,phosphoramide,basic group
+Hydrolysis Reaction,ester,basic group
+Hydrolysis Reaction,sulfonate ester,basic group
+Acid-base Reaction,sulfonic acid,basic group
+Acid-base Reaction,carboxylic acid,basic group
+Acid-base Reaction,phenolic hydroxyl,basic group
+Acid-base Reaction,sulfonic acid,primary amine
+Acid-base Reaction,carboxylic acid,primary amine
+Acid-base Reaction,phenolic hydroxyl,primary amine
+Acid-base Reaction,sulfonic acid,secondary amine
+Acid-base Reaction,carboxylic acid,secondary amine
+Acid-base Reaction,phenolic hydroxyl,secondary amine
+Acid-base Reaction,sulfonic acid,tertiary amine
+Acid-base Reaction,carboxylic acid,tertiary amine
+Acid-base Reaction,phenolic hydroxyl,tertiary amine
+Acid-base Reaction,primary amine,acidic group
+Acid-base Reaction,secondary amine,acidic group
+Acid-base Reaction,tertiary amine,acidic group
+Acid-base Reaction,guanidino,acidic group
+Acid-base Reaction,primary amine,carboxylic acid
+Acid-base Reaction,secondary amine,carboxylic acid
+Acid-base Reaction,tertiary amine,carboxylic acid
+Acid-base Reaction,guanidino,carboxylic acid
+Acid-base Reaction,primary amine,phenolic hydroxyl
+Acid-base Reaction,secondary amine,phenolic hydroxyl
+Acid-base Reaction,tertiary amine,phenolic hydroxyl
+Acid-base Reaction,guanidino,phenolic hydroxyl
+Acid-base Reaction,primary amine,sulfonic acid
+Acid-base Reaction,secondary amine,sulfonic acid
+Acid-base Reaction,tertiary amine,sulfonic acid
+Acid-base Reaction,guanidino,sulfonic acid
+Esterification,hydroxyl,carboxylic acid
+Esterification,hydroxyl,sulfonic acid
+Esterification,carboxylic acid,hydroxyl
+Esterification,sulfonic acid,hydroxyl
+Complexation Reaction,phenolic hydroxyl,metal ion
+Complexation Reaction,cyanide,metal ion
+Maillard Reaction,primary amine,reduced sugar
+Maillard Reaction,secondary amine,reduced sugar
+Maillard Reaction,guanidino,reduced sugar
+Maillard Reaction,primary amine,aldehyde
+Maillard Reaction,secondary amine,aldehyde
+Maillard Reaction,guanidino,aldehyde
+Maillard Reaction,primary amine,ketone
+Maillard Reaction,secondary amine,ketone
+Maillard Reaction,guanidino,ketone
+Transesterification Interaction,ester,hydroxyl
+Transesterification Interaction,hydroxyl,ester
+Amino-Transesterification,ester,primary amine
+Amino-Transesterification,ester,secondary amine
+Amino-Transesterification,primary amine,ester
+Amino-Transesterification,secondary amine,ester
+Aldol Condensation Reaction,alpha hydrogen,aldehyde
+Aldol Condensation Reaction,alpha hydrogen,ketone
+Amidation Reaction,acyl halide,primary amine
+Amidation Reaction,acyl halide,secondary amine
+Michael Addition Reaction,primary amine,conjugated bond
+Michael Addition Reaction,secondary amine,conjugated bond
+Michael Addition Reaction,conjugated bond,primary amine
+Michael Addition Reaction,conjugated bond,secondary amine
+N-Nitrosation Reaction,nitrogen,nitrite
+N-Nitrosation Reaction,nitrogen,nitrate
+Nucleophilic Addition Reaction,imine,primary amine
+Nucleophilic Addition Reaction,imine,secondary amine
