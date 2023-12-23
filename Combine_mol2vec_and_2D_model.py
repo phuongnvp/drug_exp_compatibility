@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import io
 import requests
-df1=pd.read_csv(2D_data.csv')
+df1=pd.read_csv('2D_data.csv')
 y = df1.iloc[:,-3].values
 X_2D = df1.iloc[:,1:399].values
 from sklearn.model_selection import train_test_split
