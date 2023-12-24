@@ -107,7 +107,7 @@ def getMolDescriptors(mol, missingVal=None):
         res[nm] = val
     return res
 #%%
-st.sidebar.markdown('What's new: In this version, we have added a feature to predict interaction mechanisms based on the chemical functional groups of the API and the excipient.')
+st.sidebar.markdown("What's new: In this version, we have added a feature to predict interaction mechanisms based on the chemical functional groups of the API and the excipient.")
 #%%
 st.title('Drug - Excipient Compatibility 1.2')
 col1, col2 = st.columns([1,3])
