@@ -107,7 +107,7 @@ def getMolDescriptors(mol, missingVal=None):
         res[nm] = val
     return res
 #%%
-st.title('Drug - Excipient Compatibility')
+st.title('Drug - Excipient Compatibility 1.2')
 col1, col2 = st.columns([1,3])
 with col1: 
     option1 = st.selectbox('Search Option', ['Name', 'PubChem CID', 'SMILES'])
