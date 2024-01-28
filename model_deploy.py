@@ -138,7 +138,7 @@ with col4:
             Excipient_img = Draw.MolToImage(n, size=(800,400))
             st.image(Excipient_img, caption="Excipient Structure", use_column_width=True)
 
-df1 = pd.read_csv('data.csv')
+df1 = pd.read_csv('dataset.csv')
 #%%
 # code for Prediction
 Predict_Result1 = ''
