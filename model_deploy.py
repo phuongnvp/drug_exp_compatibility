@@ -326,3 +326,12 @@ if st.button('Result'):
                 for i in range(MoI_index):
                     st.success(f'{i+1}. The drug contains {API_fg[i]} while the excipient contains {exp_fg[i]}, enabling them to interact via {MoI[i]}')
         st.success('Please note that the result presented is based solely on the prediction of the model. Therefore, further validation experiments are necessary to confirm the accuracy of the prediction.')
+
+st.markdown(
+    """
+    <div style="position: fixed; bottom: 8px; width: 100%; text-align: left; padding-left: 5cm;">
+        Nguyen-Van Phuong, et al. (2023)
+    </div>
+    """,
+    unsafe_allow_html=True
+)
