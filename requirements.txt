@@ -15,3 +15,4 @@ IPython == 8.15.0
 joblib == 1.2.0
 git+https://github.com/phuongnvp/mol2vec
 xgboost == 2.0.1
+scipy == 1.10.1
