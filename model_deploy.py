@@ -330,7 +330,7 @@ if st.button('Result'):
 st.markdown(
     """
     <div style="position: fixed; bottom: 8px; width: 100%; text-align: left; padding-left: 5cm;">
-        Nguyen-Van Phuong, et al. (2023)
+        Created by Nguyen-Van Phuong, et al. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378517324001182">2023</a>
     </div>
     """,
     unsafe_allow_html=True
